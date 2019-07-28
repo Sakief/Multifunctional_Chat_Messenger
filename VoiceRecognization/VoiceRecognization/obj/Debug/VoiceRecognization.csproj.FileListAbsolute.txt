@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2013\Projects\VoiceRecognization\VoiceRecognization\bin\Debug\VoiceRecognization.exe.config
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\VoiceRecognization\VoiceRecognization\bin\Debug\VoiceRecognization.exe
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\VoiceRecognization\VoiceRecognization\bin\Debug\VoiceRecognization.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\VoiceRecognization\VoiceRecognization\obj\Debug\VoiceRecognization.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\VoiceRecognization\VoiceRecognization\obj\Debug\VoiceRecognization.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\VoiceRecognization\VoiceRecognization\obj\Debug\VoiceRecognization.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\VoiceRecognization\VoiceRecognization\obj\Debug\VoiceRecognization.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\VoiceRecognization\VoiceRecognization\obj\Debug\VoiceRecognization.exe
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\VoiceRecognization\VoiceRecognization\obj\Debug\VoiceRecognization.pdb

@@ -1,0 +1,36 @@
+c:\users\ayon\documents\visual studio 2015\Projects\messenger\messenger\bin\Debug\messenger.exe.config
+c:\users\ayon\documents\visual studio 2015\Projects\messenger\messenger\bin\Debug\messenger.exe
+c:\users\ayon\documents\visual studio 2015\Projects\messenger\messenger\bin\Debug\messenger.pdb
+c:\users\ayon\documents\visual studio 2015\Projects\messenger\messenger\bin\Debug\TicTacToeWin32.exe
+c:\users\ayon\documents\visual studio 2015\Projects\messenger\messenger\bin\Debug\TicTacToeWin32.pdb
+c:\users\ayon\documents\visual studio 2015\Projects\messenger\messenger\obj\Debug\messenger.csprojResolveAssemblyReference.cache
+c:\users\ayon\documents\visual studio 2015\Projects\messenger\messenger\obj\Debug\messenger.Form1.resources
+c:\users\ayon\documents\visual studio 2015\Projects\messenger\messenger\obj\Debug\messenger.Properties.Resources.resources
+c:\users\ayon\documents\visual studio 2015\Projects\messenger\messenger\obj\Debug\messenger.csproj.GenerateResource.Cache
+c:\users\ayon\documents\visual studio 2015\Projects\messenger\messenger\obj\Debug\messenger.exe
+c:\users\ayon\documents\visual studio 2015\Projects\messenger\messenger\obj\Debug\messenger.pdb
+C:\Users\Ayon\documents\visual studio 2015\Projects\messenger\messenger\bin\Debug\Screen capture.exe
+C:\Users\Ayon\documents\visual studio 2015\Projects\messenger\messenger\bin\Debug\Screen capture.pdb
+C:\Users\Ayon\documents\visual studio 2015\Projects\messenger\messenger\bin\Debug\Speech_rec.exe
+C:\Users\Ayon\documents\visual studio 2015\Projects\messenger\messenger\bin\Debug\Speech_rec.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\messenger\messenger\bin\Debug\messenger.exe.config
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\messenger\messenger\obj\Debug\messenger.exe
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\messenger\messenger\obj\Debug\messenger.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\messenger\messenger\obj\Debug\messenger.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\messenger\messenger\obj\Debug\messenger.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\messenger\messenger\obj\Debug\messenger.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\messenger\messenger\obj\Debug\messenger.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\messenger\messenger\bin\Debug\messenger.exe
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\messenger\messenger\bin\Debug\messenger.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\messenger\messenger\bin\Debug\Screen capture.exe
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\messenger\messenger\bin\Debug\Speech_rec.exe
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\messenger\messenger\bin\Debug\TicTacToeWin32.exe
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\messenger\messenger\bin\Debug\Screen capture.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\messenger\messenger\bin\Debug\Speech_rec.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\messenger\messenger\bin\Debug\TicTacToeWin32.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\messenger\messenger\bin\Debug\PDF Reader.exe
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\messenger\messenger\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\messenger\messenger\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\messenger\messenger\bin\Debug\PDF Reader.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\messenger\messenger\bin\Debug\VoiceRecognization.exe
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\messenger\messenger\bin\Debug\VoiceRecognization.pdb

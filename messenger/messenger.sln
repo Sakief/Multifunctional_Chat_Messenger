@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "messenger", "messenger\messenger.csproj", "{DF52DA43-153C-4041-9BBF-9E7B6B913C66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screen capture", "..\Screen capture\Screen capture\Screen capture.csproj", "{1F8976F5-B268-4FCF-8CE6-B855D985E2D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speech_rec", "..\Speech_rec\Speech_rec\Speech_rec.csproj", "{32CED47E-B748-45DF-9D9F-493B6A09AD7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeWin32", "..\TicTacToeWin32\TicTacToeWin32.csproj", "{D0FEDDAF-A0CD-41C7-93A3-01A4B6F64FC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF Reader", "..\..\..\PDF Reader\PDF Reader\PDF Reader.csproj", "{498FEDF5-3343-4F2B-AEB8-B12CF4097FFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiceRecognization", "..\..\..\VoiceRecognization\VoiceRecognization\VoiceRecognization.csproj", "{A883B730-DB2E-4635-99BC-E08FF83AC880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF52DA43-153C-4041-9BBF-9E7B6B913C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF52DA43-153C-4041-9BBF-9E7B6B913C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF52DA43-153C-4041-9BBF-9E7B6B913C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF52DA43-153C-4041-9BBF-9E7B6B913C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F8976F5-B268-4FCF-8CE6-B855D985E2D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8976F5-B268-4FCF-8CE6-B855D985E2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8976F5-B268-4FCF-8CE6-B855D985E2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8976F5-B268-4FCF-8CE6-B855D985E2D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32CED47E-B748-45DF-9D9F-493B6A09AD7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CED47E-B748-45DF-9D9F-493B6A09AD7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CED47E-B748-45DF-9D9F-493B6A09AD7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CED47E-B748-45DF-9D9F-493B6A09AD7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0FEDDAF-A0CD-41C7-93A3-01A4B6F64FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0FEDDAF-A0CD-41C7-93A3-01A4B6F64FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0FEDDAF-A0CD-41C7-93A3-01A4B6F64FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0FEDDAF-A0CD-41C7-93A3-01A4B6F64FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498FEDF5-3343-4F2B-AEB8-B12CF4097FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498FEDF5-3343-4F2B-AEB8-B12CF4097FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498FEDF5-3343-4F2B-AEB8-B12CF4097FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498FEDF5-3343-4F2B-AEB8-B12CF4097FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A883B730-DB2E-4635-99BC-E08FF83AC880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A883B730-DB2E-4635-99BC-E08FF83AC880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A883B730-DB2E-4635-99BC-E08FF83AC880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A883B730-DB2E-4635-99BC-E08FF83AC880}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

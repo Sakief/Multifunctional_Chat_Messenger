@@ -1,0 +1,14 @@
+c:\users\asus\documents\visual studio 2013\Projects\PDF Reader\PDF Reader\bin\Debug\PDF Reader.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\PDF Reader\PDF Reader\bin\Debug\PDF Reader.exe
+c:\users\asus\documents\visual studio 2013\Projects\PDF Reader\PDF Reader\bin\Debug\PDF Reader.pdb
+c:\users\asus\documents\visual studio 2013\Projects\PDF Reader\PDF Reader\bin\Debug\Interop.AcroPDFLib.dll
+c:\users\asus\documents\visual studio 2013\Projects\PDF Reader\PDF Reader\bin\Debug\AxInterop.AcroPDFLib.dll
+c:\users\asus\documents\visual studio 2013\Projects\PDF Reader\PDF Reader\obj\Debug\Interop.AcroPDFLib.dll
+c:\users\asus\documents\visual studio 2013\Projects\PDF Reader\PDF Reader\obj\Debug\AxInterop.AcroPDFLib.dll
+c:\users\asus\documents\visual studio 2013\Projects\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.ResolveComReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\PDF Reader\PDF Reader\obj\Debug\PDF_Reader.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\PDF Reader\PDF Reader\obj\Debug\PDF_Reader.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\PDF Reader\PDF Reader\obj\Debug\PDF Reader.exe
+c:\users\asus\documents\visual studio 2013\Projects\PDF Reader\PDF Reader\obj\Debug\PDF Reader.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csprojResolveAssemblyReference.cache

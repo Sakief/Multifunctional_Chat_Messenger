@@ -1,0 +1,26 @@
+c:\users\asus\documents\visual studio 2013\Projects\Screen capture\Screen capture\bin\Debug\Screen capture.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Screen capture\Screen capture\bin\Debug\Screen capture.exe
+c:\users\asus\documents\visual studio 2013\Projects\Screen capture\Screen capture\bin\Debug\Screen capture.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Screen capture\Screen capture\obj\Debug\Screen capture.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\Screen capture\Screen capture\obj\Debug\Screen_capture.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\Screen capture\Screen capture\obj\Debug\Screen_capture.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\Screen capture\Screen capture\obj\Debug\Screen capture.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\Screen capture\Screen capture\obj\Debug\Screen capture.exe
+c:\users\asus\documents\visual studio 2013\Projects\Screen capture\Screen capture\obj\Debug\Screen capture.pdb
+C:\Users\Ayon\Documents\Visual Studio 2015\Projects\Screen capture\Screen capture\bin\Debug\Screen capture.exe.config
+C:\Users\Ayon\Documents\Visual Studio 2015\Projects\Screen capture\Screen capture\bin\Debug\Screen capture.exe
+C:\Users\Ayon\Documents\Visual Studio 2015\Projects\Screen capture\Screen capture\bin\Debug\Screen capture.pdb
+C:\Users\Ayon\Documents\Visual Studio 2015\Projects\Screen capture\Screen capture\obj\Debug\Screen_capture.Form1.resources
+C:\Users\Ayon\Documents\Visual Studio 2015\Projects\Screen capture\Screen capture\obj\Debug\Screen_capture.Properties.Resources.resources
+C:\Users\Ayon\Documents\Visual Studio 2015\Projects\Screen capture\Screen capture\obj\Debug\Screen capture.csproj.GenerateResource.Cache
+C:\Users\Ayon\Documents\Visual Studio 2015\Projects\Screen capture\Screen capture\obj\Debug\Screen capture.exe
+C:\Users\Ayon\Documents\Visual Studio 2015\Projects\Screen capture\Screen capture\obj\Debug\Screen capture.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\Screen capture\Screen capture\bin\Debug\Screen capture.exe.config
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\Screen capture\Screen capture\bin\Debug\Screen capture.exe
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\Screen capture\Screen capture\bin\Debug\Screen capture.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\Screen capture\Screen capture\obj\Debug\Screen_capture.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\Screen capture\Screen capture\obj\Debug\Screen_capture.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\Screen capture\Screen capture\obj\Debug\Screen capture.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\Screen capture\Screen capture\obj\Debug\Screen capture.exe
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\Screen capture\Screen capture\obj\Debug\Screen capture.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\Projects\Projects\Screen capture\Screen capture\obj\Debug\Screen capture.csprojResolveAssemblyReference.cache
